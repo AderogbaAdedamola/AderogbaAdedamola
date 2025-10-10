@@ -2,7 +2,12 @@
 <h3 align="center">A passionate frontend developer from Nigeria aimed at solving complex problems in society using logics</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aderogbaadedamola&label=Profile%20views&color=0e75b6&style=flat" alt="aderogbaadedamola" /> </p>
-🐦 [Follow me on Twitter](https://twitter.com/Adedamola0010)
+<p align="center">
+  <a href="https://twitter.com/Adedamola0010" target="_blank">
+    <img src="https://img.shields.io/badge/Follow-%40YOUR_USERNAME-1DA1F2?style=for-the-badge&logo=x&logoColor=white" alt="Follow on X (Twitter)">
+  </a>
+</p>
+
 
 - 🔭 I’m currently working on [paynoV8](https://github.com/Bobnati/paynoV8-hackathon)
 
