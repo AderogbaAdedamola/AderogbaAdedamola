@@ -1,5 +1,8 @@
-<h1 align="center">Hi 👋, I'm Aderogba Adedamola</h1>
-![Footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=gradient&height=150)
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Hi%20👋,%20I'm%20Adedamola&reversal=true&animation=twinkling&fontSize=50" width="100%" alt="Hi 👋, Im Aderogba Adedamola" />
+</p>
+
+
 <h3 align="center">A passionate frontend developer from Nigeria aimed at solving complex problems in society using logics</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aderogbaadedamola&label=Profile%20views&color=0e75b6&style=flat" alt="aderogbaadedamola" /> </p>
@@ -51,7 +54,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aderogbaadedamola&" alt="aderogbaadedamola" /></p>
 
-<a href="https://github.com/OWNER/REPO/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=OWNER/REPO" />
-</a>
 
