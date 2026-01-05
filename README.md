@@ -13,9 +13,9 @@
 </p>
 
 
-- 🔭 I’m currently working on [paynoV8](https://github.com/Bobnati/paynoV8-hackathon)
+- 🔭 I’m currently working on [DevTrack](https://github.com/AderogbaAdedamola/DevTrack)
 
-- 🌱 I’m currently learning **ReactJS**
+- 🌱 I’m currently learning **NextJS**
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
