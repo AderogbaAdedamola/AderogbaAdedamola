@@ -15,11 +15,11 @@
 
 - 🔭 I’m currently working on [DevTrack](https://github.com/AderogbaAdedamola/DevTrack)
 
-- 🌱 I’m currently learning **NextJS**
+- 🌱 I’m currently learning **Backend Development**
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
-- 💬 Ask me about **HTML, CSS, Javascript and ReactJs**
+- 💬 Ask me about **ReactJs**
 
 - 📫 How to reach me **aderogbaadedamola8@gmail.com**
 
